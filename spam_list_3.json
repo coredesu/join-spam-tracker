@@ -1,0 +1,15 @@
+[{
+	"name": "gore_spam",
+	"index": 1,
+	"isActive": false,
+	"owner": [{
+		"id": 0,
+		"s_id": null,
+		"s_url": null
+	}],
+	"accounts": [{
+		"id": 0,
+		"s_id": 1517781742,
+		"s_url": "https://steamcommunity.com/profiles/76561199478047470"
+	}]
+}]
