@@ -1,45 +1,41 @@
- [
-  {
-    "name": "discord_spam",
-    "index": 0,
-    "isActive": true,
-    "owner": [
-      {
-        "id": 0,
-        "s_id": 1288388835,
-        "s_url": "https://steamcommunity.com/profiles/76561199248654563"
-      }
-      ],
-      "accounts": [
-      {
-       "id": 0,
-       "s_id": 1482388069,
-       "s_url": "https://steamcommunity.com/profiles/76561199442653797"
-      },
-      {
-       "id": 1,
-       "s_id": 1516310694,
-       "s_url": "https://steamcommunity.com/profiles/76561199476576422"
-      },
-      {
-       "id": 2,
-       "s_id": 1516074028,
-       "s_url": "https://steamcommunity.com/profiles/76561199476339756"
-      },
-      {
-       "id": 3,
-       "s_id": 1515867728,
-       "s_url": "https://steamcommunity.com/profiles/76561199476133456"
-      },
-      {
-       "id": 4,
-       "s_id": 1519479922,
-       "s_url": "https://steamcommunity.com/profiles/76561199479745650"
-      },
-      {
-       "id": 5,
-       "s_id": 1529360137,
-       "s_url": "https://steamcommunity.com/profiles/76561199489625865"
-      },
-      ]
- ]
+ [{
+ 	"name": "discord_spam",
+ 	"index": 0,
+ 	"isActive": true,
+ 	"owner": [{
+ 		"id": 0,
+ 		"s_id": 1288388835,
+ 		"s_url": "https://steamcommunity.com/profiles/76561199248654563"
+ 	}],
+ 	"accounts": [{
+ 			"id": 0,
+ 			"s_id": 1482388069,
+ 			"s_url": "https://steamcommunity.com/profiles/76561199442653797"
+ 		},
+ 		{
+ 			"id": 1,
+ 			"s_id": 1516310694,
+ 			"s_url": "https://steamcommunity.com/profiles/76561199476576422"
+ 		},
+ 		{
+ 			"id": 2,
+ 			"s_id": 1516074028,
+ 			"s_url": "https://steamcommunity.com/profiles/76561199476339756"
+ 		},
+ 		{
+ 			"id": 3,
+ 			"s_id": 1515867728,
+ 			"s_url": "https://steamcommunity.com/profiles/76561199476133456"
+ 		},
+ 		{
+ 			"id": 4,
+ 			"s_id": 1519479922,
+ 			"s_url": "https://steamcommunity.com/profiles/76561199479745650"
+ 		},
+ 		{
+ 			"id": 5,
+ 			"s_id": 1529360137,
+ 			"s_url": "https://steamcommunity.com/profiles/76561199489625865"
+ 		}
+ 	]
+ }]
