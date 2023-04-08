@@ -42,46 +42,4 @@
        "s_url": "https://steamcommunity.com/profiles/76561199489625865"
       },
       ]
-      {
-    "name": "discord_spam_2",
-    "index": 1,
-    "isActive": false,
-    "owner": [
-      {
-        "id": 0,
-        "s_id": 1267844112,
-        "s_url": "https://steamcommunity.com/profiles/76561199228109840"
-      },
-      {
-        "id": 1,
-        "s_id": 1288388835,
-        "s_url": "https://steamcommunity.com/profiles/76561199248654563"
-      }
-      ],
-      "accounts": [
-      {
-       "id": 0,
-       "s_id": 1508382714,
-       "s_url": "https://steamcommunity.com/profiles/76561199468648442"
-      },
-      {
-       "id": 1,
-       "s_id": 1508172022,
-       "s_url": "https://steamcommunity.com/profiles/76561199468437750"
-      },
-      {
-       "id": 2,
-       "s_id": 1508082339,
-       "s_url": "https://steamcommunity.com/profiles/76561199468348067"
-      },
-      {
-       "id": 3,
-       "s_id": 1508135315,
-       "s_url": "https://steamcommunity.com/profiles/76561199468401043"
-      },
-      {
-       "id": 4,
-       "s_id": 1508151398,
-       "s_url": "https://steamcommunity.com/profiles/76561199468417126"
-      },
  ]
